@@ -8,3 +8,7 @@
     /*vh沾满屏幕*/
     display: block;
 }
+
+body {
+    overflow: hidden;
+}
